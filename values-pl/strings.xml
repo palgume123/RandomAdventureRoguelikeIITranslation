@@ -124,7 +124,7 @@
     </plurals>
     <plurals name="quest_kill_monsters_text_quest_screen" tools:ignore="MissingQuantity">
         <item quantity="one">Zabij %1$s potwora typu %2$s</item>
-        <item quantity="other">Zabij %1$s potworow typu %2$s</item>
+        <item quantity="other">Zabij %1$s potworów typu %2$s</item>
     </plurals>
 
     <string name="menu_new_game">Nowa gra</string>
@@ -155,7 +155,7 @@
     <string name="text_update_available_positive">Aktualizuj!</string>
     <string name="text_update_available_cancel">Później</string>
 
-    <string name="game_over_rank_top">You made it to the top &font_cyan;#%d&font_end; in the Cemetery!</string>
+    <string name="game_over_rank_top">Udało Ci się zostać pierwszym &font_cyan;#%d&font_end; na Cmentarzu!</string>
     <string name="game_over_rank_rest">You were ranked &font_cyan;#%d &font_end;in the Cemetery.</string>
 
     <string name="welcome_message_title">Witaj</string>
@@ -178,7 +178,7 @@
     <string name="about_twitter">Archison na Twitterze</string>
     <string name="about_discord">RAR II na Discordzie</string>
 
-    <string name="new_game_welcome_hero_whats_your_name">Witaj bohaterze! Jakie twe imię?</string>
+    <string name="new_game_welcome_hero_whats_your_name">Witaj bohaterze! Jakie jest Twoje imię?</string>
     <string name="new_game_hero_name">Bohater</string>
     <string name="new_game_whats_your_starting_advantage">… i do jakiej profesji się poczuwasz?</string>
 
@@ -192,30 +192,30 @@
     <string name="advantage_alchemist">&font_alchemist;Alchemik&font_end;</string>
     <string name="advantage_blacksmith">&font_silver;Kowal&font_end;</string>
     <string name="advantage_noble">&font_gold;Szlachcic&font_end;</string>
-    <string name="advantage_librarian">&font_wood;Librarian&font_end;</string>
-    <string name="advantage_librarian_desc">(You will start with a random crafting recipe, an &font_cyan;experience &font_end;potion and 5 &font_cyan;skill &font_end;points)</string>
-    <string name="advantage_random_desc">(Losowo dobrana będzie profesja)</string>
-    <string name="advantage_warrior_desc">(Na początku dostaniesz &font_attack;broń&font_end;, &font_defense;Tarczę&font_end;
+    <string name="advantage_librarian">&font_wood;Bibliotekarz&font_end;</string>
+    <string name="advantage_librarian_desc">(Na początku dostaniesz losową recepturę, an &font_cyan;miksturę &font_end;doświadczenia i 5 &font_cyan;punktów &font_end;doświadczenia)</string>
+    <string name="advantage_random_desc">(Losowa profesja)</string>
+    <string name="advantage_warrior_desc">(Na początku dostaniesz &font_attack;broń&font_end;, &font_defense;tarczę&font_end;
         i &font_defense;zbroję (element)&font_end;)</string>
     <string name="advantage_ranger_desc">(Na początku dostaniesz broń &font_speed;dystansową &font_end;
         i kilka do niej pasującej amunicji)</string>
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
-    <string name="advantage_wizard_desc">(Na początku będziesz znał &font_mana;Zaklęcie&font_end;i posiadał &font_mana;Kostur&font_end;)</string>
-    <string name="advantage_cleric_desc">(Na początku będziesz znał zaklęcie &font_health;Leczące&font_end; &font_mana; &font_end;i posiadał &font_mana;Kostur&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Na początku będzie znał zaklęcie &font_pet;Złapania&font_end; &font_red;Potwora&font_end; &font_mana;&font_end;, swojego &font_red;Stwora&font_end;
-        o CR równe &font_cyan;0&font_end; i &font_cyan;Obrożę&font_end;)</string>
+    <string name="advantage_wizard_desc">(Na początku będziesz znał &font_mana;zaklęcie&font_end;i posiadał &font_mana;kostur&font_end;)</string>
+    <string name="advantage_cleric_desc">(Na początku będziesz znał zaklęcie &font_health;leczące&font_end; &font_mana; &font_end;i posiadał &font_mana;kostur&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Na początku będziesz znał zaklęcie &font_pet;złapania&font_end; &font_red;potwora&font_end; &font_mana;&font_end;, swojego &font_red;stwora&font_end;
+        o CR równe &font_cyan;0&font_end; i &font_cyan;obrożę&font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-    <string name="advantage_worker_desc">(Na początku dostaniesz losowe &font_cyan;Narzędzie&font_end;)</string>
+    <string name="advantage_worker_desc">(Na początku dostaniesz losowe &font_cyan;narzędzie&font_end;)</string>
     <string name="advantage_alchemist_desc">(Na początku będziesz wiedział jak uwarzyć &font_cyan;1 &font_end;
         typ mikstury i posiadał &font_cyan;3 &font_end;losowe składniki)</string>
-    <string name="advantage_blacksmith_desc">(Na początku będzie wiedział jak wykuć &font_attack;Broń&font_end;, &font_defense;Tarczę&font_end;, i część &font_defense;Zbroi &font_end;oraz posiadał &font_cyan;3 &font_end;losowe materiały)</string>
+    <string name="advantage_blacksmith_desc">(Na początku będzie wiedział jak wykuć &font_attack;broń&font_end;, &font_defense;tarczę&font_end;, i część &font_defense;zbroi &font_end;oraz posiadał &font_cyan;3 &font_end;losowe materiały)</string>
     <string name="advantage_noble_desc">(Na początku będziesz miał więcej &font_gold;pieniędzy&font_end;)</string>
     <string name="advantage_random_selected">Zaczynam jako: %1$s!</string>
 
-    <string name="new_game_permadeath_question">Wybierz definitywość śmierci…</string>
+    <string name="new_game_permadeath_question">Wybierz definitywność śmierci…</string>
     <string name="new_game_permadeath_selected">&font_red;&bold;DEFINITYWNY&bold_end;&font_end; tryb wybrano.&br;&br;&font_red;Śmierć&font_end;
         sprawia,że tracisz &font_cyan;ten zapis &font_end; i będziesz musiał zacząć &font_cyan;od nowa&font_end;!</string>
     <string name="new_game_no_permadeath_selected">&font_red;&bold;BEZPIECZNY &bold_end;&font_end;tryb wybrano.&br;&br;Jeśli zginiesz, to obudzisz się na ostatnim &font_primary_light;&italic;[PUNKCIE KONTROLNYM] &italic_end;&font_end;(kiedy spoczniesz w &font_inn;Karczmie &font_end;lub &font_cyan;awansujesz&font_end;, &font_primary_light;&italic;[PUNKT KONTROLNY] &italic_end;&font_end;będzie wykonany).</string>
@@ -242,7 +242,7 @@
     <string name="button_sell_mode">Sprzedaj</string>
     <string name="button_clear">Wyczyść dane</string>
     <string name="button_craft">Stwórz</string>
-    <string name="button_drop">Puść</string>
+    <string name="button_drop">Upuść</string>
     <string name="button_use">Użyj</string>
     <string name="button_water_seed">Wodne nasiono</string>
     <string name="button_cook">Ugotuj</string>
@@ -267,7 +267,7 @@
     <string name="button_quaff">Zażyj</string>
     <string name="button_shake">Wstrząśnij</string>
     <string name="button_equip">Załóż</string>
-    <string name="button_cast">Czaruj</string>
+    <string name="button_cast">Rzuć zaklęcie</string>
     <string name="button_remove">Usuń</string>
     <string name="button_info">i</string>
     <string name="button_minus">-</string>
@@ -276,11 +276,11 @@
     <string name="button_sort_by_level">Sortuj (poziom)</string>
     <string name="button_sort_by_type">Sortuj (typ)</string>
     <string name="button_sort_by_az">Sortuj (A-Z)</string>
-    <string name="button_mine">Wydobywaj</string>
-    <string name="button_chop_tree">Rąb</string>
-    <string name="button_fish">Ryba</string>
+    <string name="button_mine">Wydobądź</string>
+    <string name="button_chop_tree">Zrąb</string>
+    <string name="button_fish">Łów</string>
     <string name="button_sail">Żegluj</string>
-    <string name="button_flee">Zwiewaj</string>
+    <string name="button_flee">Ucieknij</string>
     <string name="button_items">Przedmioty</string>
     <string name="button_skills">Umiejętności</string>
     <string name="button_spells">Zaklęcia</string>
@@ -288,8 +288,8 @@
     <string name="button_rescue">Uratuj</string>
     <string name="button_learn">Naucz się</string>
     <string name="button_ranking">Ranking</string>
-    <string name="button_about">About</string>
-    <string name="button_feed">Feed</string>
+    <string name="button_about">O</string>
+    <string name="button_feed">Zjedz</string>
     <string name="button_leave">Odejdź</string>
     <string name="button_pay">Zapłać</string>
     <string name="button_ok_ellipsis">Dobrze…</string>
@@ -297,10 +297,10 @@
     <string name="button_repair">Napraw</string>
     <string name="button_look">Spójrz</string>
     <string name="button_ellipsis">…</string>
-    <string name="button_sacrifice">Poświeć</string>
+    <string name="button_sacrifice">Poświęć</string>
     <string name="button_set_active">Ustaw jako aktywne</string>
-    <string name="button_withdraw">Podejmij</string>
-    <string name="button_withdraw_bank">&font_gold;Podejmij&font_end;</string>
+    <string name="button_withdraw">Zabierz</string>
+    <string name="button_withdraw_bank">&font_gold;Zabierz&font_end;</string>
     <string name="button_deposit_bank">&font_gold;Zdeponuj&font_end;</string>
     <string name="button_exit">Wyjdź</string>
     <string name="button_cancel">Anuluj</string>
@@ -314,10 +314,10 @@
     <string name="button_store">Przechowaj</string>
     <string name="button_rename">Zmień imię</string>
     <string name="button_transform">Przemień</string>
-    <string name="button_status">Statystyki</string>
+    <string name="button_status">Status</string>
     <string name="button_map">Mapa</string>
     <string name="button_world">Świat</string>
-    <string name="button_settings">Konfiguracja</string>
+    <string name="button_settings">Ustawienia</string>
     <string name="button_equipment">Uzbrojenie</string>
     <string name="button_inventory">Ekwipunek</string>
     <string name="button_journey">Podróżuj</string>
@@ -340,7 +340,7 @@
     <string name="inventory_equipped_equipment">Założono %1$s.</string>
     <string name="inventory_wielded_item">Dobyto %1$s.</string>
     <string name="inventory_unwielded_item">Odłożono %1$s.</string>
-    <string name="inventory_you_have_no_items_right_now">Póki co, pustki…</string>
+    <string name="inventory_you_have_no_items_right_now">Nie masz żadnych przedmiotów</string>
     <string name="inventory_text_you_quaff_the">Zażyłeś %1$s!</string>
     <string name="inventory_amount_parenthesis">(&font_cyan;%1$d&font_end;)</string>
     <string name="inventory_pickup_couldnt">Nie można podnieść %1$s, ekwipunek pełny!</string>
@@ -363,14 +363,14 @@
     <string name="status_exp_two_dots">Doświadczenie:</string>
     <string name="status_data">&font_cyan;Dane&font_end;</string>
     <string name="status_monsters_killed">Zabito potworów: &font_attack;%1$d&font_end;</string>
-    <string name="status_quests_completed">Zadania ukończonoe: &font_cyan;%1$d&font_end;</string>
+    <string name="status_quests_completed">Zadania ukończone: &font_cyan;%1$d&font_end;</string>
     <string name="status_islands_visited_completed">Wyspy &font_cyan;O&font_end;/&font_health;Z&font_end;/&font_purifying;O&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
-    <string name="status_pets_captured">Zwierzęt złapane: &font_pet;%1$d&font_end;</string>
-    <string name="status_animals_befriended">Zwierzęta oswojone: &font_pet;%1$d&font_end;</string>
-    <string name="status_crafting_recipes">Receptury: &font_cyan;%1$d&font_end;</string>
+    <string name="status_pets_captured">Złapane zwierzęta: &font_pet;%1$d&font_end;</string>
+    <string name="status_animals_befriended">Oswojone zwierzęta: &font_pet;%1$d&font_end;</string>
+    <string name="status_crafting_recipes">Receptuty: &font_cyan;%1$d&font_end;</string>
     <string name="status_crafted_items">Utworzone przedmioty: &font_cyan;%1$d&font_end;</string>
     <string name="status_skills_learnt">Poznane umiejętności: &font_green;%1$d&font_end;</string>
-    <string name="status_spells_learnt">Poznanie zaklęcia: &font_mana;%1$d&font_end;</string>
+    <string name="status_spells_learnt">Poznane zaklęcia: &font_mana;%1$d&font_end;</string>
     <string name="status_main_story_times">Ilość ukończeń głównego wątku: &font_green;%1$d&font_end;</string>
     <string name="status_void_master_times">Ilość zabić Pana Pustki: &font_green;%1$d&font_end;</string>
     <string name="status_deaths">Śmierci: &font_red;%1$d&font_end;</string>
@@ -380,7 +380,7 @@
     <string name="status_health">Zdrowie:&font_health;\t%1$d&font_end;/&font_health;%2$d&font_end;</string>
     <string name="status_mana">Mana:&font_mana;\t%1$d&font_end;/&font_mana;%2$d&font_end;</string>
     <string name="status_hunger">Głód:&font_hunger;\t%1$d&font_end;/&font_hunger;%2$d&font_end;</string>
-    <string name="status_attack">Att:&font_attack;\t%1$d&font_end;</string>
+    <string name="status_attack">Atk:&font_attack;\t%1$d&font_end;</string>
     <string name="status_defense">Obr:\t&font_defense;%1$d&font_end;</string>
     <string name="status_speed">Szb:\t&font_speed;%1$d&font_end;</string>
     <string name="status_intelligence">Int:\t&font_mana;%1$d&font_end;</string>
@@ -406,7 +406,7 @@
     <string name="shop_florist_capitalised">Ogrodnik</string>
     <string name="shop_farmer_capitalised">Rolnik</string>
     <string name="shop_empty_message"><![CDATA[There aren\'t items to buy…]]></string>
-    <string name="shop_empty_message_inventory">Pusto w ekwipunku…</string>
+    <string name="shop_empty_message_inventory">Nie masz żadnych przedmiotów</string>
     <string name="shop_bought_item">Kupiono %1$s za &font_gold;%2$d&font_end;.</string>
     <string name="shop_sold_item">Sprzedano %1$s za &font_gold;%2$d&font_end;.</string>
     <string name="shop_sold_item_with_amount">Sprzedano &font_cyan;%1$d&font_end;
